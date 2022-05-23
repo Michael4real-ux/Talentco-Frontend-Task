@@ -106,7 +106,9 @@ header .right_side a {
 
 .main_banner_section .main_banner_title p:first-child {
   font-weight: 700;
-  font-size: 3rem;
+  font-size: 3.5rem;
+
+color: #272D4E;
 }
 
 .main_banner_section .main_banner_content {
@@ -878,4 +880,3 @@ footer .allrights {
     font-size: 1rem;
   }
 }
-/*# sourceMappingURL=index.css.map */
